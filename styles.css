@@ -1,0 +1,11 @@
+.btn-save {
+  border-color: crimson;
+  color: #fff;
+  box-shadow: 0 0 40px 40px crimson inset, 0 0 0 0 crimson;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+
+.btn-save:hover {
+  box-shadow: 0 0 10px 0 crimson inset, 0 0 10px 4px crimson;
+}
