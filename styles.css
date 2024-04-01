@@ -1,9 +1,42 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.ql-container {
+  min-height: 10rem;
+  height: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.ql-editor {
+  height: 100%;
+  flex: 1;
+  overflow-y: auto;
+  width: 100%;
+}
+
 .btn-save {
   border-color: crimson;
   color: #fff;
   box-shadow: 0 0 40px 40px crimson inset, 0 0 0 0 crimson;
   -webkit-transition: all 150ms ease-in-out;
   transition: all 150ms ease-in-out;
+  align-self: flex-end;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 .btn-save:hover {
