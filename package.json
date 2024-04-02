@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^29.1.6"
+  },
+  "dependencies": {
+    "jspdf": "^2.5.1"
   }
 }
