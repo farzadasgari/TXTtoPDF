@@ -62,7 +62,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/farzadasgari/TXTtoPDF/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
