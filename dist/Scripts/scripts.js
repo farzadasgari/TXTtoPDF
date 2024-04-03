@@ -9,5 +9,5 @@ document.getElementById('save').addEventListener('click', function () {
         'width': 185,
         'elementHandlers': this.specialElementHandlers
     });
-    doc.save("a4.pdf");
+    doc.save("TXTtoPDF.pdf");
 })
