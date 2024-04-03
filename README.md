@@ -68,6 +68,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - [Electron.js](https://electronjs.org/) - Framework for building cross-platform desktop applications.
 - [Quill.js](https://quilljs.com/) - Modern rich text editor built for compatibility and extensibility.
+- Special thanks to @mojikarimi for his contributions and collaboration on this project.
+ 
 ## Contact
 
 For any inquiries or feedback, please contact std_farzad.asgari@alumni.khi.ac.ir or farzad.developer13@gmail.com.
