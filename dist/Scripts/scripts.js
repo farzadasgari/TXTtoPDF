@@ -1,7 +1,7 @@
 const toolbarOptions = [
     ['bold', 'italic', 'underline', 'strike'],        
     ['blockquote', 'code-block'],
-    ['link', 'formula'],
+
   
     [{ 'header': 1 }, { 'header': 2 }],               
     [{ 'list': 'ordered'}, { 'list': 'bullet' }, { 'list': 'check' }],
@@ -15,7 +15,7 @@ const toolbarOptions = [
     [{ 'color': [] }, { 'background': [] }],           
     [{ 'align': [] }],
   
-    ['clean']                                         
+                                            
   ];
 
 const quill = new Quill('#editor', {
